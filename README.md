@@ -1,2 +1,2 @@
 # miprimerrepositorio
-este es mi primer repositorio para las clases de Git
+Este es mi primer repositorio para las clases de Git
